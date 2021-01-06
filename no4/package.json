@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "better-sqlite3": "^7.1.0",
     "formidable-serverless": "^1.0.3",
     "formik": "^2.1.4",
